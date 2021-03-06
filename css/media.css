@@ -1,0 +1,361 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*topnav*/
+.icon {
+    text-align: center !important;
+}
+/*bottom nav start*/
+.menu ul li a {
+    padding: 0 !important;   
+    text-align: right;
+}
+.custom-button {
+    padding: 4px 10px !important;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+/*banner start*/
+.banner_content {
+    padding: 50px 0;
+}
+.banner_content h1 {
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.banner_content p {
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+.custom-btn {
+    font-size: 18px;
+    padding: 6px 30px !important;
+}
+/*about start*/
+.about{
+	padding: 40px 0;
+}
+.title_h1 {
+    font-size: 25px;  
+    letter-spacing: 0; 
+}
+.about_content{
+	text-align: center;
+ }
+ .about-btn {
+    padding: 5px 20px !important;
+}
+/*recipes start*/
+.recipes {
+    padding: 70px 0;
+    text-align: center;
+}
+.recipes_content {
+    padding: 20px;
+}
+.recipes_img {
+    margin-top: 100px;
+}
+/*experience start*/
+.experience {
+    padding: 40px 0;
+}
+.food-img {
+    margin-top: 30px;
+}
+.overlayinn {
+    padding: 20px;
+    height: 230px;
+    width: 210px;
+}
+/*menu start*/
+.food_menu {
+    padding: 30px 0;
+}
+.row-custom {
+    margin-bottom: 40px;
+}
+.title_grp {
+    margin-bottom: 20px;
+}
+.menu-list {
+    margin-top: 20px;
+    padding: 25px;
+}
+/*mobile app start*/
+.mobile_app {
+    padding: 30px 0;
+}
+.mobile-content {
+    margin-top: 0px;
+    text-align: center;
+}
+.mobile-h1 {
+    font-size: 45px;
+}
+.mobile-h2 {
+    font-size: 18px;
+}
+.mobile-img {
+    margin-top: 20px;
+}
+.mobile-img img{
+	width: 150px;
+}
+.mobile-img li{
+	margin-top: 10px !important;
+}
+/*feedback start*/
+.feedback {
+    padding: 40px 0;
+}
+.working_hours{
+	text-align: left !important;
+}
+.last-h2 {
+    margin-bottom: 30px;
+}
+.footer-icon{
+	margin-top: 30px;
+}
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*bottom nav start*/
+.menu ul li a {
+    padding: 0 !important;   
+    text-align: right;
+}
+.custom-button {
+    margin-top: 10px;
+    margin-left: 330px;
+}
+/*banner start*/
+.banner_content {
+    padding: 100px 0;
+}
+.banner_content h1 {
+    margin-bottom: 30px;
+    font-size: 70px;
+}
+.banner_content p {
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+.custom-btn {
+    font-size: 18px;
+    padding: 6px 30px !important;
+}
+/*about start*/
+.about{
+	padding: 70px 0;
+}
+.title_h1 {
+    margin:10px 0;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+.about_content{
+	text-align: center;
+ }
+ /*recipes start*/
+.recipes {
+    padding: 70px 0;
+}
+.recipes_content {
+    padding: 30px;
+}
+.recipes_img {
+    margin-top: 100px;
+}
+/*experience start*/
+.experience {
+    padding: 70px 0;
+}
+.food-img {
+    margin-top: 30px;
+}
+.overlayinn {
+    padding: 10px;
+    height: 200px;
+    width: 180px;
+}
+.overlayinn h2 {
+    font-size: 22px;
+    color: #ffffff;
+}
+/*menu start*/
+.food_menu {
+    padding: 30px 0;
+}
+.title_grp {
+    margin-bottom: 30px;
+}
+.menu-list {
+    margin-top: 20px;
+    padding: 25px;
+}
+/*mobile app start*/
+.mobile_app {
+    padding: 30px 0;
+}
+.mobile-content {
+    margin-top: 50px;
+}
+.mobile-h1 {
+    font-size: 45px;
+}
+.mobile-h2 {
+    font-size: 18px;
+}
+.mobile-img {
+    margin-top: 20px;
+}
+.mobile-img img{
+	width: 150px;
+}
+.mobile-img li{
+	margin-top: 10px !important;
+}
+/*feedback start*/
+.feedback {
+    padding: 40px 0;
+}
+.last-h2 {
+    margin-bottom: 30px;
+}
+.footer-icon{
+	margin-top: 30px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*bottom nav start*/
+.menu ul li a {
+    padding: 0 !important;   
+    text-align: right;
+}
+.custom-button {
+    margin-top: 10px;
+    margin-left: 510px;
+}
+/*banner start*/
+.banner_content {
+    padding: 100px 0;
+}
+.banner_content h1 {
+    margin-bottom: 30px;
+    font-size: 80px;
+}
+.banner_content p {
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+/*about start*/
+.about{
+	padding: 70px 0;
+}
+.title_h1 {
+    font-size: 30px;
+}
+.about_img{
+	margin-top: 50px;
+}
+/*recipes start*/
+.recipes {
+    padding: 100px 0;
+}
+.recipes_content {
+    padding: 30px;
+}
+.recipes_img {
+    margin-top: 100px;
+}
+/*experience start*/
+.experience {
+    padding: 70px 0;
+}
+.food-img {
+    margin-top: 30px;
+}
+.overlayinn {
+    padding: 10px;
+    height: 180px;
+    width: 160px;
+}
+.overlayinn h2 {
+    font-size: 22px;
+    color: #ffffff;
+}
+/*menu start*/
+.food_menu {
+    padding: 70px 0;
+}
+.title_grp {
+    margin-bottom: 30px;
+}
+.menu-img {
+    margin-top: 70px;
+}
+/*mobile app start*/
+.mobile-content {
+    margin-top: 50px;
+}
+.mobile-h1 {
+    font-size: 55px;
+}
+.mobile-h2 {
+    font-size: 21px;
+}
+.mobile-img {
+    margin-top: 20px;
+}
+.mobile-img img{
+	width: 150px;
+}
+/*feedback start*/
+.last-h2 {
+    margin-bottom: 30px;
+}
+.footer-icon{
+	margin-top: 30px;
+	margin-left: 100px;
+}
+}
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*banner start*/
+.banner_content {
+    padding: 150px 0;
+}
+.banner_content h1 {
+    margin-bottom: 30px;
+    font-size: 80px;
+}
+.banner_content p {
+    font-size: 20px;
+}
+.recipes_img {
+    margin-top: 80px;
+}
+/*experience start*/
+.overlayinn {
+    padding: 10px;
+    height: 180px;
+    width: 160px;
+}
+.overlayinn h2 {
+    font-size: 22px;
+    color: #ffffff;
+}
+/*menu start*/
+.menu-img {
+    margin-top: 70px;
+}
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+ }
